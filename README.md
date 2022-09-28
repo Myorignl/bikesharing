@@ -8,17 +8,17 @@ The scenario presents an oportunity to establish a bikesharing service in Des Mo
 
 ## Deliverable 1- Change Trip Duration to a Datetime Format
 
-Using Jupyter teh date format was changed.
+Using Jupyter the date format was changed.
 ![image](https://user-images.githubusercontent.com/104601282/192702537-8903a11b-563a-4e82-bd55-699d5eb3c653.png)
 
-The data was saved as a nw csv file without the index
+The data was saved as a new csv file without the index
 ![image](https://user-images.githubusercontent.com/104601282/192703282-dd3c0538-03f7-47a7-84b4-b61f613aa6aa.png)
 
 ![image](https://user-images.githubusercontent.com/104601282/192702794-17a26134-e792-494c-84e1-07b7dc26862e.png)
 
 
-- Results -  The graphs in Deliverable 2  gender and by time of date.
-- 
+- Results -  The graphs in Deliverable 2 by gender and by time of day.
+
 ## Deliverable 2- Create Visualizations for the Trip Analysis
 
 - Checkout Times for Users 
