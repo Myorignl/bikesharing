@@ -62,6 +62,8 @@ The data shows that men a re more likely to obtain a membership for bike ridesha
 
 Stories and dashboards created and available on Tableau public link below:
 [link to dashboard] (https://public.tableau.com/app/profile/dorthy.rodriguez/viz/Challenge14_16643346659760/countsperhourperdaygender?publish=yes) 
+or 
+(https://public.tableau.com/views/Challenge14_16643346659760/countsperhourperdaygender?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 
 
