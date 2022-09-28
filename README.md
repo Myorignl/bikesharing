@@ -60,7 +60,8 @@ The data was saved as a nw csv file without the index
 
 The data shows that men a re more likely to obtain a membership for bike rideshare. The highest days of use are thursday and Friday. My suggestion would be to perhaps create a portion of the services geared towards family friendly riding areas with bikes for children which will open a new demographic to market and increase the weekend revenue. 
 
-Stories and dashboards created and available on Tableau public link below: https://public.tableau.com/app/profile/dorthy.rodriguez/viz/Challenge14_16643346659760/countsperhourperdaygender?publish=yes 
+Stories and dashboards created and available on Tableau public link below:
+[link to dashboard] (https://public.tableau.com/app/profile/dorthy.rodriguez/viz/Challenge14_16643346659760/countsperhourperdaygender?publish=yes) 
 
 
 
