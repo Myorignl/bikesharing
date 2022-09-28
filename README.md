@@ -16,6 +16,9 @@ The data was saved as a nw csv file without the index
 
 ![image](https://user-images.githubusercontent.com/104601282/192702794-17a26134-e792-494c-84e1-07b7dc26862e.png)
 
+
+- Results -  The graphs in Deliverable 2  gender and by time of date.
+- 
 ## Deliverable 2- Create Visualizations for the Trip Analysis
 
 - Checkout Times for Users 
@@ -34,12 +37,30 @@ The data was saved as a nw csv file without the index
 ![image](https://user-images.githubusercontent.com/104601282/192704985-f386d6a8-a643-46ea-9bb3-0c724453cfe0.png)
 
 
-## NYC City Bike Dashboad - The Dashboard provides a quick overview of the data. It illustrates the usiest hours for the month of August, the gender distribution and the average trip duration by birth year. 
+### Additional Data Visualization: 
 
-![Uploading image.png…]()
+# Deliverable - 3 
+
+## NYC City Bike Dashboad - The Dashboard provides a quick overview of the data. It illustrates the busiest hours for the month of August, the gender distribution and the average trip duration by birth year. 
+
+![image](https://user-images.githubusercontent.com/104601282/192720995-004b5078-f08c-4c76-857a-4b636e0f7d08.png)
+
+## Top Sharing Locations- top Sharing Locations highlight in blue the bussiest areas for bike sharing services.
+
+![image](https://user-images.githubusercontent.com/104601282/192717701-fa028775-ffe9-481d-b5f4-0c842c2b7cc8.png)
+
+## Counts per Day per Gender / Customer type. 
+
+![image](https://user-images.githubusercontent.com/104601282/192719290-9325808c-bc82-4214-9221-a0bb601f807f.png)
 
 
 
+
+### Summary 
+
+The data shows that men a re more likely to obtain a membership for bike rideshare. The highest days of use are thursday and Friday. My suggestion would be to perhaps create a portion of the services geared towards family friendly riding areas with bikes for children which will open a new demographic to market and increase the weekend revenue. 
+
+Stories where created ad available on Tableau public https://public.tableau.com/app/profile/dorthy.rodriguez/viz/Challenge14_16643346659760/countsperhourperdaygender?publish=yes 
 
 
 
