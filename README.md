@@ -4,7 +4,7 @@
 This module centers arround the use of tableau for data vizualization. We are tasked with creating a variety of visual graphs. A csv file is provided with the data for this project. The csv file is uploaded to jupyter or VS where a data frame is created using padas and the date format is changed to enable the data visualization. The newly formatted data is saved as a new csv file and used for the remainder of the assignment. 
 
 - Overview
-The scenario presents an oportunity to establish a bikesharing service in Des Moines. In order to present the  data to prospect investors we are using excisting data from a bikesharing service in New York. Using the data availalbe enables the creation of visual graphs that are easy to use and interpret. The visualizaion will illustrate to the investrs that there is a market for the services, this will help secure funding.
+The scenario presents an oportunity to establish a bikesharing service in Des Moines. In order to present the  data to prospect investors we are using excisting data from a bikesharing service in New York. Using the data availalbe enables the creation of visual graphs that are easy to use and interpret. The visualizaion will illustrate to the investors that there is a market for the services, this will help secure funding.
 
 ## Deliverable 1- Change Trip Duration to a Datetime Format
 
@@ -58,7 +58,7 @@ The data was saved as a new csv file without the index
 
 ### Summary 
 
-The data shows that men a re more likely to obtain a membership for bike rideshare. The highest days of use are thursday and Friday. My suggestion would be to perhaps create a portion of the services geared towards family friendly riding areas with bikes for children which will open a new demographic to market and increase the weekend revenue. 
+The data shows that men are more likely to obtain a membership for bike rideshare. The highest days of use are thursday and Friday. My suggestion would be to perhaps create a portion of the services geared towards family friendly riding areas with bikes for children which will open a new demographic to market and increase the weekend revenue. 
 
 Stories and dashboards created and available on Tableau public link below:
 [link to dashboard] (https://public.tableau.com/app/profile/dorthy.rodriguez/viz/Challenge14_16643346659760/countsperhourperdaygender?publish=yes) 
